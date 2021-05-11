@@ -40,3 +40,17 @@
 
 Log in and test the Firebase CLI
 ```firebase login```
+
+- Initialize your project
+To connect your local project files to your Firebase project, run the following command from the root of your local project directory:
+
+`firebase init hosting`
+
+- Deploy to your site
+To deploy to your site, run the following command from the root of your local project directory:
+
+
+```firebase deploy --only hosting```
+
+finallay published:
+https://simple-blockchain-javascript.web.app/ 
