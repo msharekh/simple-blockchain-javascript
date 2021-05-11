@@ -32,3 +32,11 @@
   firebase.initializeApp(firebaseConfig);
 </script>
 ```
+
+- Install the Firebase CLI via npm by running the following command:
+
+
+``npm install -g firebase-tools``
+
+Log in and test the Firebase CLI
+```firebase login```
